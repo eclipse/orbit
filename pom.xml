@@ -26,7 +26,6 @@
   <modules>
     <module>antlr</module>
     <module>aopalliance</module>
-    <module>args4j</module>
     <module>asm</module>
     <module>assertj</module>
     <module>apache</module>

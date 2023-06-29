@@ -227,8 +227,6 @@
 
   <plugin id="io.github.classgraph" version="4.8.149.qualifier"/>
 
-  <plugin id="org.kohsuke.args4j" version="2.33.0.qualifier"/>
-
   <!-- HK2 -->
   <plugin id="org.glassfish.hk2.utils" version="2.5.0.qualifier"/>
   <plugin id="org.glassfish.hk2.api" version="2.5.0.qualifier"/>
