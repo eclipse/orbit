@@ -9,6 +9,7 @@ Export-Package: \
 
 Import-Package: \
  !net.i2p.crypto.eddsa,!net.i2p.crypto.eddsa.*,\
+ !sun.security.x509, \
  *;resolution:=optional
 
 Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version>=1.6))"
