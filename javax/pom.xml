@@ -23,7 +23,6 @@
     <module>jakarta.el_4.0.0</module>
     <module>jakarta.servlet_5.0.0</module>
     <module>jakarta.servlet.jsp_3.0.0</module>
-    <module>javax.annotation_1.3.5</module>
     <module>javax.validation_1.1.0</module>
     <module>jakarta.xml.bind_2.3.3</module>
     <module>jakarta.websocket_2.0.0</module>

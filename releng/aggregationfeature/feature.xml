@@ -359,7 +359,6 @@
   <plugin id="jakarta.xml.bind" version="2.3.3.qualifier" />
   <plugin id="javax.activation" version="1.2.2.qualifier" />
   <plugin id="javax.activation" version="2.0.0.qualifier" />
-  <plugin id="javax.annotation" version="1.3.5.qualifier" />
   <plugin id="javax.inject" version="1.0.0.qualifier" />
   <plugin id="javax.validation" version="1.1.0.qualifier" />
   <plugin id="jakarta.websocket" version="2.0.0.qualifier" />
