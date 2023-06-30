@@ -170,7 +170,6 @@
   <plugin id="org.apache.commons.codec" version="1.14.0.qualifier"/>
   <plugin id="org.apache.commons.logging" version="1.2.0.qualifier"/>
   <plugin id="org.apache.commons.csv" version="1.8.0.qualifier"/>
-  <plugin id="org.apache.commons.io" version="2.8.0.qualifier"/>
   <plugin id="org.apache.commons.math3" version="3.6.1.qualifier"/>
 
   <plugin id="org.apache.jclouds.api.cloudwatch"          version="1.8.0.qualifier"/>
