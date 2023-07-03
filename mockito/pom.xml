@@ -10,7 +10,6 @@
   <packaging>pom</packaging>
   <name>Eclipse Orbit :: Mockito Recipes</name>
   <modules>
-    <module>org.mockito.mockito-core_4.8.1</module>
     <module>org.mockito.junit-jupiter_4.8.1</module>
   </modules>
 </project>

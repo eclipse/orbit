@@ -28,10 +28,8 @@
     <module>aopalliance</module>
     <module>args4j</module>
     <module>asm</module>
-    <module>assertj</module>
     <module>apache</module>
     <module>bouncycastle</module>
-    <module>bytebuddy</module>
     <module>commonmark</module>
     <module>cup</module>
     <module>drmaa</module>
@@ -57,7 +55,6 @@
     <module>logging</module>
     <module>mockito</module>
     <module>netty</module>
-    <module>objenesis</module>
     <module>reactivestreams</module>
     <module>snakeyaml</module>
     <module>sourceforge</module>
